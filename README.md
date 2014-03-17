@@ -7,4 +7,4 @@ Given a web log where customers’ purchasing histories are recorded, the progra
 To do that, firstly the method of sequence alignment is used to calculate the fluctuations of purchasing history in time dimension, then control charts, namely EWMA (exponentially-weighted moving average) chart and CUSUM (cumulative sum) chart, are introduced to detect possible exceptions.
 
 
-The entry is at *SequenceAlignment/src/sequenceAlignment/Entry.java* and main procedures is executed in *SequenceAlignment/src/sequenceAlignment/Procedures.java*
+The entry is at ***SequenceAlignment/src/sequenceAlignment/Entry.java*** and main procedures is executed in ***SequenceAlignment/src/sequenceAlignment/Procedures.java***
